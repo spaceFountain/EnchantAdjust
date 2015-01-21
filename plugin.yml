@@ -1,0 +1,7 @@
+name: EnchantAdjust
+main: org.civcraft.EnchantAdjust
+version: 0.0.1
+softdepend:
+description: adjust the behavior and balance of enchanting
+author: space_fountain
+database: false
